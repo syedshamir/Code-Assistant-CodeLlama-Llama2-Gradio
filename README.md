@@ -3,6 +3,10 @@
 STEPS TO RUN THE PROJECT
 
 Download Ollama: https://ollama.com/download
+- Run ollama in local cmd 
+- Go to cmd
+- ollama create codeguru -f modelfile     #codeguru is my personal code assistant name, you can give any name
+- ollama run codeguru
 
 Create a conda environment: conda create -p venv python==3.9 --y
 
