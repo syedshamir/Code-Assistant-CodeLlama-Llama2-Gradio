@@ -1,5 +1,8 @@
 <b> Code-Assistant-using-CodeLlama2-LLM </b>
 ![image](https://github.com/syedshamir/Code-Assistant-CodeLlama-Llama2-Gradio/assets/58033291/21831e3f-a2be-4135-8529-b3bf9f3f1da0)
+History - Storage
+![image](https://github.com/syedshamir/Code-Assistant-CodeLlama-Llama2-Gradio/assets/58033291/d1141fc9-b3a7-4255-a7d3-7f0356444b8e)
+
 
 
 STEPS TO RUN THE PROJECT
