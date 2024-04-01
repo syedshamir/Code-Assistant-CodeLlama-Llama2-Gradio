@@ -2,7 +2,7 @@
 
 STEPS TO RUN THE PROJECT
 
-Download Ollama: httpsL//ollama.com/download
+Download Ollama: https://ollama.com/download
 
 Create a conda environment: conda create -p venv python==3.9 --y
 
